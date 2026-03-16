@@ -1,5 +1,3 @@
-![API Status](https://img.shields.io/uptimerobot/status/monitor/m802561745-467f1859cf0b7137e9fff9db?style=flat-square)
-
 # LicenseKit SDK
 
 Official SDK for [LicenseKit](https://saaslic.com) — License management for indie developers.
