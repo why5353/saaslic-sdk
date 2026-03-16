@@ -1,0 +1,31 @@
+{
+  "name": "saaslic",
+  "version": "0.1.0",
+  "description": "Official Node.js SDK for LicenseKit — License management for indie developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "license",
+    "saas",
+    "sdk",
+    "indie",
+    "developer",
+    "software",
+    "protection"
+  ],
+  "author": "LicenseKit <hi@saaslic.com>",
+  "license": "MIT",
+  "homepage": "https://saaslic.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/你的GitHub用户名/saaslic-sdk"
+  },
+  "bugs": {
+    "url": "https://github.com/你的GitHub用户名/saaslic-sdk/issues"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
